@@ -1,0 +1,13 @@
+.section {
+  border-bottom: 2px solid white;
+  padding: 10px;
+}
+
+body {
+  background-color: black;
+  color: white; 
+}
+
+canvas {
+  background-color: #020819;
+}
